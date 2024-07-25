@@ -25,7 +25,7 @@ For detailed instructions on how to request your data and use the Spotify API, r
 
 - **SQL Server**: Use SQL Server to manipulate and query data for further insights.
 
-- **Power BI**: Interactive dashboards and visualizations created to illustrate listening habits, track popularity, and artist engagement. Open the Power BI file `Spotify_Data_Analysis.pbix` for a comprehensive view.
+- **Power BI**: Interactive dashboards and visualizations created to illustrate listening habits, track popularity, and artist engagement. Open the Power BI file `Spotify_Listening_Habits_Insights.pbix` for a comprehensive view.
 
 ## Case Study Visuals
 
