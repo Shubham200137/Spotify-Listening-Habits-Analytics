@@ -21,7 +21,7 @@ For detailed instructions on how to request your data and use the Spotify API, r
 
 - **Exploratory Data Analysis (EDA)**: Perform analysis and preprocessing of Spotify data using Python's pandas library. Check the `EDA_Spotify_Data.ipynb` file for detailed steps and analysis.
 
-- **SQL Server**: Use SQL Server to manipulate and query data for further insights.
+- **SQL Server**: Use SQL Server to manipulate and query data for further insights.Check the `SQL_Analysis.sql` file for detailed steps and analysis.
 
 - **Power BI**: Interactive dashboards and visualizations created to illustrate listening habits, track popularity, and artist engagement. Open the Power BI file `Spotify_Listening_Habits_Insights.pbix` for a comprehensive view.
 
