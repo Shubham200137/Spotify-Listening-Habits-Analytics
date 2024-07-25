@@ -29,6 +29,6 @@ For detailed instructions on how to request your data and use the Spotify API, r
 
 The visualizations created for this project can be accessed through the following Power BI report:
 
-[Power BI Dashboard](https://yourpowerbi.com/reportlink)
+[Power BI Dashboard](https://docs.google.com/presentation/d/1UPCvUTS3RoVXCIZakQyJUoO3qtyzUj9z/edit?usp=drive_link&ouid=101647169591373102805&rtpof=true&sd=true)
 
 Please refer to the provided links for more information on the data analysis process, visualizations, presentation to stakeholders, and the data source.
