@@ -1,7 +1,6 @@
 # Spotify Listening Habits Analytics
 
-
-This repository contains a comprehensive analysis of Spotify listening habits and music trends. The project involves Exploratory Data Analysis (EDA) using Python Pandas Library and Jupyter Notebook, data processing with SQL Server, and visualizations with Power BI. The objective is to uncover insights into listening patterns, track popularity, and artist engagement.
+Spotify Listening Habits Analytics is a project aimed at analyzing personalized Spotify listening habits and music trends from July 2023 to July 2024. The project involves Exploratory Data Analysis (EDA) using Python Pandas Library and Jupyter Notebook, data processing with SQL Server, and visualizations with Power BI. The objective is to uncover insights into listening patterns, track popularity, and artist engagement.
 ## Project Overview
 
 As a data analyst, the goal is to explore, process, and analyze Spotify data to provide actionable insights and visualizations. The complete analysis and findings are detailed in the `EDA_Spotify_Data.ipynb` Jupyter Notebook file.
